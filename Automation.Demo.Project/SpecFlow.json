@@ -1,0 +1,12 @@
+{
+  {
+    "stepAssemblies": [
+      {
+        "assembly": "Automation.Demo.Project"
+      }
+    ],
+    "bindingCulture": {
+      "name": "en-US"
+    }
+  }
+}
